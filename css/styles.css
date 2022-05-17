@@ -1,1 +1,22 @@
 /* Add your CSS here */
+
+body {
+    margin-top: 15%;
+    text-align: center;
+
+    background-image: url(../MotleyFool-TMOT-6b0d4105-space.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: 'Faster One', cursive;
+    color: rgb(79, 206, 245);
+    text-align: center;
+}
+.card{
+    margin-left: 45%;
+    margin-right: 55%;
+    color-scheme: dark;
+    background-color: rgb(42, 49, 51);
+    color: white
+}
